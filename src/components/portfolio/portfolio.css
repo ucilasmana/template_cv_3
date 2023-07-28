@@ -7,7 +7,7 @@
 }
 .work__item {
     cursor: pointer;
-    fonr-weight: var(--font-bold);
+    font-weight: var(--font-bold);
     transition: .3s;
 }
 .work__item:hover {
